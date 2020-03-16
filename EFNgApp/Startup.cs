@@ -9,6 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 namespace EFNgApp
 {
     //Now in Dotnet core global.asax is not required 
+    //Second part of comment
     public class Startup
     {
         public Startup(IConfiguration configuration)
